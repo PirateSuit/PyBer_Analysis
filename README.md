@@ -29,4 +29,6 @@ The less dense the city type, the higher the fare per ride and fare per driver. 
 
 We could also look into the rural city types to see whether or not a higher number of drivers could yield more business. 
 
+On a similar tack, perhaps the longer distances and subsequent higher fares are suppressing the amount of rides we are getting in more spread out areas. It wouldn't hurt to look into that.
+
 
