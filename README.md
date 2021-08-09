@@ -10,3 +10,9 @@ Taking the ride and city data given, I put them into a dataframe and then organi
 
 Here it is:
 ![image](https://github.com/PirateSuit/PyBer_Analysis/blob/main/analysis/resampled_weekly_fare_df.png)
+
+I then took that data and put it into a line plot.
+
+The plot:
+
+![image](https://github.com/PirateSuit/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
